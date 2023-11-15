@@ -19,6 +19,12 @@ public class Main {
         ----------------
         Welcome to Zork!
         ----------------
+        Instructions:
+        Available Commands:
+        - Go [Direction]
+        - Take [Item]
+        - Drop [Item]
+        - Inventory
         Enter 'Start' to begin!""");
 
         while (true) {
