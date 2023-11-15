@@ -95,7 +95,7 @@ public class Game {
                 }
                 break;
             default:
-                System.out.println("Invalid Command. Available Commands: Go, Take, Drop, Inventory");
+                System.out.println("Invalid Command. Available Commands: Go, Take, Drop, Inventory, Quit");
         }
     }
 
